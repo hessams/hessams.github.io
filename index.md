@@ -5,8 +5,6 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
-
 I am Hessam, a MSc student in Industrial Engineering at the [Sharif University](http://sharif.edu). 
 
 ## Research Interest

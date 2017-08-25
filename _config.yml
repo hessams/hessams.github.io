@@ -8,8 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-url: http://ankitsultana.com
-baseurl: "/researcher"
+url: http://hessams.github.io
+baseurl: "/"
 markdown: kramdown
 tracking_id: 
 sass:

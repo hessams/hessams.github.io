@@ -3,13 +3,8 @@ title: Index
 layout: default
 ---
 
-## About Me
 
-I am Hessam, a MSc student in Industrial Engineering at the [Sharif University](http://sharif.edu). 
-
-## Research Interest
-
-In general, my research interests include Optimization , Machine Learning (in particular deep learning), Data Mining.
+I am Hessam, a MSc student in Industrial Engineering at the [Sharif University](http://sharif.edu). In general, my research interests include Optimization , Machine Learning (in particular deep learning), Data Mining.
 
 ## Publications
 

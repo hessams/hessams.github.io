@@ -3,15 +3,9 @@ url: "http://ankitsultana.com"
 baseurl: "/researcher"
 
 markdown: kramdown
-<<<<<<< HEAD
 
 tracking_id: #
 
 sass:
     style: compressed
     sass_dir: _sass
-=======
-theme: minima
-plugins:
-- jekyll-feed
->>>>>>> 48646bd9c2291d414162f80070f59815a6bddd06

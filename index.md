@@ -3,7 +3,7 @@ title: Index
 layout: default
 ---
 
-I am Hessam, a MSc student in Industrial Engineering at the [Sharif University](http://sharif.edu) (the #1 Engineering university in Iran). In general, my research interests include Optimization , Machine Learning (in particular deep learning), Data Mining.
+I am Hessam, a MSc student in Industrial Engineering at the [Sharif University](http://sharif.edu) (the #1 Engineering university in Iran). In general, my research interests include Optimization, Machine Learning (in particular deep learning), Data Mining.
 
 ## Publication
 

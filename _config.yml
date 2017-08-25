@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-url: http://hessams.github.io
+url: https://hessams.github.io
 baseurl: "/"
 markdown: kramdown
 tracking_id: 
